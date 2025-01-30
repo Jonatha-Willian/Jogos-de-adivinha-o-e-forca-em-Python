@@ -1,1 +1,1 @@
-#jogas feitos paraa formação de python da alura
+Mini jogos de advinhação e forca usando o termnal com python.
